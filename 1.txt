@@ -7,3 +7,5 @@ ditambah lagi
 coomit untuk coba fetch
 
 commit untuk branch dev
+
+commit untuk merge
